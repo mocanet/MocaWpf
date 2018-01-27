@@ -61,23 +61,23 @@ using System.Windows;
 
 
 #if net35
-[assembly: AssemblyTitle("Moca.NET Core .NET 3.5")]
+[assembly: AssemblyTitle("Moca.NET WPF .NET 3.5")]
 #endif
 #if net40
-[assembly: AssemblyTitle("Moca.NET Core .NET 4.0")]
+[assembly: AssemblyTitle("Moca.NET WPF .NET 4.0")]
 #endif
 #if net45
-[assembly: AssemblyTitle("Moca.NET Core .NET 4.5")]
+[assembly: AssemblyTitle("Moca.NET WPF .NET 4.5")]
 #endif
 #if net452
 [assembly: AssemblyTitle("Moca.NET WPF .NET 4.5.2")]
 #endif
 #if net46
-[assembly: AssemblyTitle("Moca.NET Core .NET 4.6")]
+[assembly: AssemblyTitle("Moca.NET WPF .NET 4.6")]
 #endif
 #if net462
-[assembly: AssemblyTitle("Moca.NET Core .NET 4.6.2")]
+[assembly: AssemblyTitle("Moca.NET WPF .NET 4.6.2")]
 #endif
 #if net47
-[assembly: AssemblyTitle("Moca.NET Core .NET 4.7")]
+[assembly: AssemblyTitle("Moca.NET WPF .NET 4.7")]
 #endif
